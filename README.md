@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6EC6FF,100:4682B4&height=220&section=header&text=Reyna%20Deantes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Data%20Analytics%20%7C%20Full%20Stack&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6EC6FF,100:4682B4&height=220&section=header&text=Reyna%20Deantes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Data%20Analytics%20%7C%20Systems%20Engineer&descAlignY=60"/>
 
 # Hi, I'm Reyna Deantes 👋
 
-### 💻 Systems Engineer | 🤖 AI & Automation Specialist | 📊 Data Analytics | 🌐 Full Stack Developer
+### 💻 Systems Engineer | 🤖 AI & Automation Specialist | 📊 Data Analytics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6EC6FF&center=true&vCenter=true&width=900&lines=AI+Specialist;Full+Stack+Developer;Building+Intelligent+Systems;Data+Analytics+Enthusiast;Automation+Engineer;Passionate+about+Artificial+Intelligence"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6EC6FF&center=true&vCenter=true&width=900&lines=AI+Specialist;Automation+Engineer;Building+Intelligent+Systems;Data+Analytics+Enthusiast;Process+Optimization;Passionate+about+Artificial+Intelligence"/>
 
 </div>
 
@@ -23,15 +23,15 @@
 * 🎓 Systems Engineer and Master's student in Artificial Intelligence
 * 📊 Experience in Data Analysis and Business Process Optimization
 * 🤖 Building AI Agents and Automation Workflows
-* 🌐 Full Stack Developer with experience developing complete systems
 * ⚡ Passionate about Process Automation, APIs, and Intelligent Systems
 * 📈 Focused on creating technology solutions that improve operations and decision-making
+* 🌎 Constantly learning and exploring new technologies
 
 ---
 
-<div align="center">
-
 # 🛠️ Technologies & Tools
+
+<div align="center">
 
 <table>
 <tr>
@@ -46,18 +46,18 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
-<b>React</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
-<b>Node.js</b>
+<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<b>Java</b>
 </td>
 
 <td align="center" width="110">
 <img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
 <b>FastAPI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<b>MySQL</b>
 </td>
 </tr>
 
@@ -83,22 +83,12 @@
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
-<b>HTML</b>
+<img src="https://img.shields.io/badge/Power_BI-6EC6FF?style=for-the-badge&logo=powerbi&logoColor=white"/><br>
+<b>Power BI</b>
 </td>
 </tr>
 
 <tr>
-<td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
-<b>CSS</b>
-</td>
-
-<td align="center" width="110">
-<img src="https://img.shields.io/badge/Power_BI-6EC6FF?style=for-the-badge&logo=powerbi&logoColor=white"/><br>
-<b>Power BI</b>
-</td>
-
 <td align="center" width="110">
 <img src="https://img.shields.io/badge/OpenAI-4682B4?style=for-the-badge&logo=openai&logoColor=white"/><br>
 <b>OpenAI</b>
@@ -113,24 +103,18 @@
 <img src="https://img.shields.io/badge/AI_Agents-4682B4?style=for-the-badge"/><br>
 <b>AI Agents</b>
 </td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Automation-87CEFA?style=for-the-badge"/><br>
+<b>Automation</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/SharePoint-4682B4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/><br>
+<b>SharePoint</b>
+</td>
 </tr>
 </table>
-
-</div>
-
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,fastapi,postgresql,git,github,vscode&theme=light" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power_BI-6EC6FF?style=for-the-badge&logo=powerbi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Excel-89CFF0?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI-4682B4?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-5DADE2?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-87CEFA?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI_Agents-4682B4?style=for-the-badge"/>
 
 </div>
 
@@ -140,13 +124,13 @@
 
 <div align="center">
 
-| 🚀 Project              | 💡 Description                                                         |
-| ----------------------- | ---------------------------------------------------------------------- |
-| 🤖 AI Automation Agents | Intelligent AI agents for process automation and workflow optimization |
-| 📊 Power BI Dashboards  | Interactive dashboards for analytics and business insights             |
-| 🌐 Full Stack Systems   | Complete systems including payroll management solutions                |
-| ⚡ Workflow Automation   | n8n workflows integrating APIs, databases, and emails                  |
-| 📄 Contract Automation  | AI-powered contract generation and management                          |
+| 🚀 Project                     | 💡 Description                                                         |
+| ------------------------------ | ---------------------------------------------------------------------- |
+| 🤖 AI Automation Agents        | Intelligent AI agents for process automation and workflow optimization |
+| 📊 Power BI Dashboards         | Interactive dashboards for analytics and business insights             |
+| 🌐 Payroll Management System   | Complete payroll management system development                         |
+| ⚡ Workflow Automation with n8n | Automated workflows integrating APIs, emails, and databases            |
+| 📄 Contract Automation System  | AI-powered contract generation and management                          |
 
 </div>
 
