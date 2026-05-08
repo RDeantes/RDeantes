@@ -1,6 +1,5 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:14002E,25:2D0B59,50:4C1D95,75:6D28D9,100:8B5CF6&height=260&section=header&text=Reyna%20Deantes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20with%20AI%20%7C%20Automation%20%7C%20Intelligent%20Systems&descAlignY=58"/>
 
 # ✨ Hi, I'm Reyna Deantes 👋
 
