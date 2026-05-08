@@ -29,7 +29,95 @@
 
 ---
 
+<div align="center">
+
 # 🛠️ Technologies & Tools
+
+<table>
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<b>Python</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+<b>JavaScript</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=react" width="55"/><br>
+<b>React</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=nodejs" width="55"/><br>
+<b>Node.js</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+<b>FastAPI</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=postgresql" width="55"/><br>
+<b>PostgreSQL</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<b>Git</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<b>GitHub</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<b>VS Code</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=html" width="55"/><br>
+<b>HTML</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=css" width="55"/><br>
+<b>CSS</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Power_BI-6EC6FF?style=for-the-badge&logo=powerbi&logoColor=white"/><br>
+<b>Power BI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/OpenAI-4682B4?style=for-the-badge&logo=openai&logoColor=white"/><br>
+<b>OpenAI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/n8n-5DADE2?style=for-the-badge&logo=n8n&logoColor=white"/><br>
+<b>n8n</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/AI_Agents-4682B4?style=for-the-badge"/><br>
+<b>AI Agents</b>
+</td>
+</tr>
+</table>
+
+</div>
+
 
 <div align="center">
 
