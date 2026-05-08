@@ -190,13 +190,7 @@
 
 # 📈 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDeantes&show_icons=true&bg_color=00000000&title_color=A78BFA&text_color=E9D5FF&icon_color=C084FC&border_color=6D28D9&ring_color=A78BFA"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDeantes&layout=compact&bg_color=00000000&title_color=A78BFA&text_color=E9D5FF&border_color=6D28D9"/>
-
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RDeantes&theme=tokyonight"/>
 
 ---
 
