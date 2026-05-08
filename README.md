@@ -1,12 +1,19 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:89CFF0,50:6EC6FF,100:4682B4&height=220&section=header&text=Reyna%20Deantes&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Automation%20%7C%20Data%20Analytics%20%7C%20Systems%20Engineer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,25:1E3A8A,50:2563EB,75:60A5FA,100:93C5FD&height=260&section=header&text=Reyna%20Deantes&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Analyst%20with%20AI%20%7C%20Automation%20%7C%20Intelligent%20Systems&descAlignY=58"/>
 
-# Hi, I'm Reyna Deantes 👋
+# ✨ Hi, I'm Reyna Deantes 👋
 
 ### 💻 Systems Engineer | 🤖 AI & Automation Specialist | 📊 Data Analytics
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=6EC6FF&center=true&vCenter=true&width=900&lines=AI+Specialist;Automation+Engineer;Building+Intelligent+Systems;Data+Analytics+Enthusiast;Process+Optimization;Passionate+about+Artificial+Intelligence"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=60A5FA&center=true&vCenter=true&width=1000&lines=Building+Intelligent+Systems;AI+Automation+Engineer;Data+Analytics+Enthusiast;Process+Optimization+with+AI;Power+BI+%7C+Python+%7C+n8n+%7C+OpenAI;Transforming+Data+into+Real+Impact"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/AI-Automation-60A5FA?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data-Analytics-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Business-Intelligence-1E40AF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Process-Optimization-93C5FD?style=for-the-badge"/>
 
 </div>
 
@@ -14,7 +21,7 @@
 
 # 🚀 About Me
 
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="coding" width="340" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWhwN2hzc2owMTRwdzBmYWh1b2xkZmI4bWZxN3E4YjA0aTVvM2Q5NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ✨ Passionate about technology, artificial intelligence, automation, and building solutions that solve real business problems.
 
@@ -36,83 +43,128 @@
 <table>
 <tr>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=python" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=python" width="58"/><br>
 <b>Python</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=javascript" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=javascript" width="58"/><br>
 <b>JavaScript</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=java" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=java" width="58"/><br>
 <b>Java</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=fastapi" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=fastapi" width="58"/><br>
 <b>FastAPI</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=mysql" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=mysql" width="58"/><br>
 <b>MySQL</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=postgresql" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=postgresql" width="58"/><br>
 <b>PostgreSQL</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=git" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=git" width="58"/><br>
 <b>Git</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=github" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=github" width="58"/><br>
 <b>GitHub</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://skillicons.dev/icons?i=vscode" width="55"/><br>
+<img src="https://skillicons.dev/icons?i=vscode" width="58"/><br>
 <b>VS Code</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/Power_BI-6EC6FF?style=for-the-badge&logo=powerbi&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Power_BI-60A5FA?style=for-the-badge&logo=powerbi&logoColor=white"/><br>
 <b>Power BI</b>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/OpenAI-4682B4?style=for-the-badge&logo=openai&logoColor=white"/><br>
-<b>OpenAI</b>
+<img src="https://img.shields.io/badge/Tableau-2563EB?style=for-the-badge&logo=tableau&logoColor=white"/><br>
+<b>Tableau</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/n8n-5DADE2?style=for-the-badge&logo=n8n&logoColor=white"/><br>
+<img src="https://img.shields.io/badge/Excel-1E40AF?style=for-the-badge&logo=microsoftexcel&logoColor=white"/><br>
+<b>Excel</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Google_Sheets-60A5FA?style=for-the-badge&logo=googlesheets&logoColor=white"/><br>
+<b>Google Sheets</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/OpenAI-2563EB?style=for-the-badge&logo=openai&logoColor=white"/><br>
+<b>GPT / OpenAI</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Telegram_Bots-1E40AF?style=for-the-badge&logo=telegram&logoColor=white"/><br>
+<b>Telegram Bots</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/n8n-60A5FA?style=for-the-badge&logo=n8n&logoColor=white"/><br>
 <b>n8n</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/AI_Agents-4682B4?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Supabase-2563EB?style=for-the-badge&logo=supabase&logoColor=white"/><br>
+<b>Supabase</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/SharePoint-1E40AF?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/><br>
+<b>SharePoint</b>
+</td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/AI_Agents-60A5FA?style=for-the-badge"/><br>
 <b>AI Agents</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/Automation-87CEFA?style=for-the-badge"/><br>
+<img src="https://img.shields.io/badge/Automation-93C5FD?style=for-the-badge"/><br>
 <b>Automation</b>
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/API_Integration-2563EB?style=for-the-badge"/><br>
+<b>API Integration</b>
 </td>
 
 <td align="center" width="110">
-<img src="https://img.shields.io/badge/SharePoint-4682B4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white"/><br>
-<b>SharePoint</b>
+<img src="https://img.shields.io/badge/SQL-1E40AF?style=for-the-badge&logo=postgresql&logoColor=white"/><br>
+<b>SQL</b>
 </td>
+
+<td align="center" width="110">
+<img src="https://img.shields.io/badge/Antigravity-60A5FA?style=for-the-badge"/><br>
+<b>Antigravity</b>
+</td>
+
 </tr>
 </table>
 
@@ -131,6 +183,7 @@
 | 🌐 Payroll Management System   | Complete payroll management system development                         |
 | ⚡ Workflow Automation with n8n | Automated workflows integrating APIs, emails, and databases            |
 | 📄 Contract Automation System  | AI-powered contract generation and management                          |
+| 📲 Telegram AI Integrations    | Automation bots connected with GPT and APIs                            |
 
 </div>
 
@@ -140,9 +193,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDeantes&show_icons=true&theme=transparent&title_color=6EC6FF&text_color=ffffff&icon_color=89CFF0&border_color=4682B4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RDeantes&show_icons=true&theme=transparent&title_color=60A5FA&text_color=ffffff&icon_color=93C5FD&border_color=2563EB"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDeantes&layout=compact&theme=transparent&title_color=6EC6FF&text_color=ffffff&border_color=4682B4"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDeantes&layout=compact&theme=transparent&title_color=60A5FA&text_color=ffffff&border_color=2563EB"/>
 
 </div>
 
@@ -153,11 +206,11 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/reynadeantes/">
-<img src="https://img.shields.io/badge/LinkedIn-Reyna%20Deantes-6EC6FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Reyna%20Deantes-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RDeantes">
-<img src="https://img.shields.io/badge/GitHub-RDeantes-4682B4?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-RDeantes-1E40AF?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -166,9 +219,8 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4682B4,50:6EC6FF,100:89CFF0&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F4D,25:1E3A8A,50:2563EB,75:60A5FA,100:93C5FD&height=120&section=footer"/>
 
-⭐ Always learning, building, and exploring new technologies.
+⭐ Transforming data into decisions and AI into real impact.
 
 </div>
-
