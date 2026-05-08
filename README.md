@@ -1,18 +1,12 @@
-<div align="center">
-
 # Hi, I'm Reyna Deantes 👋
 
-### 💻 Systems Engineer | 🤖 AI & Automation Specialist | 📊 Data Analytics | 🌐 Full Stack Developer
+💻 Systems Engineer | 🤖 AI & Automation Specialist | 📊 Data Analytics | 🌐 Full Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Specialist;Full+Stack+Developer;Data+Analytics+Enthusiast;Automation+Engineer;Building+Intelligent+Systems&center=true&width=700&height=45">
-
-</div>
+Passionate about technology, artificial intelligence, automation, and building solutions that solve real business problems. I enjoy combining data, AI, and software development to optimize processes and create intelligent systems with real impact.
 
 ---
 
 ## 🚀 About Me
-
-Passionate about technology, artificial intelligence, automation, and building solutions that solve real business problems. I enjoy combining data, AI, and software development to optimize processes and create intelligent systems with real impact.
 
 * 🎓 Systems Engineer and Master's student in Artificial Intelligence
 * 📊 Experience in Data Analysis and Business Process Optimization
@@ -23,28 +17,42 @@ Passionate about technology, artificial intelligence, automation, and building s
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
+## 🛠️ Technologies & Tools
 
 ### Languages & Development
 
-<img src="https://skillicons.dev/icons?i=python,javascript,html,css,react,nodejs,fastapi,postgresql,git,github" />
+* Python
+* JavaScript
+* SQL
+* HTML / CSS
+* React
+* Node.js
+* FastAPI
 
 ### Data & Analytics
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+* Power BI
+* Excel
+* Data Visualization
+* Data Analysis
+* Business Intelligence
 
 ### AI & Automation
 
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20Agents-5A67D8?style=for-the-badge"/>
+* AI Agents
+* OpenAI API
+* Workflow Automation
+* n8n
+* Process Automation
+* API Integration
 
-</div>
+### Tools & Platforms
+
+* Git & GitHub
+* SharePoint
+* REST APIs
+* PostgreSQL
+* Microsoft 365
 
 ---
 
@@ -72,44 +80,21 @@ AI-powered automation for generating and managing contracts through intelligent 
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=RDeantes&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RDeantes&layout=compact&theme=tokyonight" />
-
-</div>
-
----
-
 ## 🎯 Current Goals
 
-✨ Continue growing in Artificial Intelligence and Data Analytics
-✨ Build scalable AI-powered solutions
-✨ Contribute to innovative technology projects
-✨ Expand knowledge in automation and intelligent systems
+* Continue growing in Artificial Intelligence and Data Analytics
+* Build scalable AI-powered solutions
+* Contribute to innovative technology projects
+* Expand knowledge in automation and intelligent systems
 
 ---
 
 ## 📫 Connect With Me
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/reynadeantes/">
-<img src="https://img.shields.io/badge/LinkedIn-Reyna%20Deantes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/RDeantes">
-<img src="https://img.shields.io/badge/GitHub-RDeantes-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</div>
+* 💼 LinkedIn: [www.linkedin.com/in/reynadeantes](http://www.linkedin.com/in/reynadeantes)
+* 🌎 GitHub: github.com/RDeantes
 
 ---
-
-<div align="center">
 
 ⭐ Always learning, building, and exploring new technologies.
 
